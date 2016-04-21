@@ -96,3 +96,8 @@ h1 {
 .rnd { /* rounded edges */
     border-radius:25px;
 }
+
+.middle {
+    width: 600px;
+    margin-left:120px;
+}
